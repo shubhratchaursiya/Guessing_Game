@@ -35,7 +35,7 @@ This project is useful for understanding **basic Java programming concepts**.
 
 ### Step 1: Clone the Repository
 ```bash
-git clone https://github.com/shubhratchaursiya/Guessing_Game.git
+git clone https://github.com/shubhratchaursiya/Guessing_Game_Begineer_Level_Project.git
 ````
 
 📌 Replace `shubhratchaursiya` with your GitHub username.
